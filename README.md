@@ -4,8 +4,8 @@ Official code and experimental results for the ICCTA 2025 paper by
 **Manal Helal** and **Hammad Khawaja** (School of Physics, Engineering and
 Computer Science, University of Hertfordshire).
 
-Seven link-prediction methods spanning four paradigms — classical embeddings,
-tensor factorisation, graph neural networks, and transformers — are evaluated
+Seven link-prediction methods spanning four paradigms, classical embeddings,
+tensor factorisation, graph neural networks, and transformers, are evaluated
 on three benchmark knowledge graphs (UMLS, FB15K, DB15K) under a single
 standardised protocol, with accuracy, efficiency, and memory measured for
 every run.
