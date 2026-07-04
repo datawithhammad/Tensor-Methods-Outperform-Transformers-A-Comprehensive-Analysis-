@@ -1,0 +1,16 @@
+{
+  "dataset": "FB15K",
+  "model": "DistMult",
+  "category": "Classical",
+  "mrr": 0.3620445430278778,
+  "hits1": 0.23369039595127106,
+  "hits3": 0.42196476459503174,
+  "hits10": 0.613959550857544,
+  "n_eval_triples": 58999,
+  "train_time_sec": 274.58,
+  "inference_time_sec": 22.27,
+  "params": 1538600,
+  "peak_mem_mb": 1242.4,
+  "epochs": 30,
+  "wall_time_sec": 296.89
+}

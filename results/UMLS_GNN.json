@@ -1,0 +1,16 @@
+{
+  "dataset": "UMLS",
+  "model": "GNN",
+  "category": "GNN",
+  "mrr": 0.7528852224349976,
+  "hits1": 0.6520737409591675,
+  "hits3": 0.8294931054115295,
+  "hits10": 0.9124423861503601,
+  "n_eval_triples": 651,
+  "train_time_sec": 124.17,
+  "inference_time_sec": 0.08,
+  "params": 86272,
+  "peak_mem_mb": 307.2,
+  "epochs": 150,
+  "wall_time_sec": 124.29
+}

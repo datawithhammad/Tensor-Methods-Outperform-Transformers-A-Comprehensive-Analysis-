@@ -1,0 +1,16 @@
+{
+  "dataset": "FB15K",
+  "model": "GNN",
+  "category": "GNN",
+  "mrr": 0.14055654406547546,
+  "hits1": 0.07753521203994751,
+  "hits3": 0.1497737318277359,
+  "hits10": 0.26382651925086975,
+  "n_eval_triples": 58999,
+  "train_time_sec": 5192.81,
+  "inference_time_sec": 21.78,
+  "params": 1091360,
+  "peak_mem_mb": 1782.7,
+  "epochs": 12,
+  "wall_time_sec": 5214.63
+}

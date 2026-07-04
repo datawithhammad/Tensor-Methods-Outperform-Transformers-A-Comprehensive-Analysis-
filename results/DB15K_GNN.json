@@ -1,0 +1,16 @@
+{
+  "dataset": "DB15K",
+  "model": "GNN",
+  "category": "GNN",
+  "mrr": 0.06751410663127899,
+  "hits1": 0.024176636710762978,
+  "hits3": 0.065498948097229,
+  "hits10": 0.15949179232120514,
+  "n_eval_triples": 8107,
+  "train_time_sec": 1995.56,
+  "inference_time_sec": 3.36,
+  "params": 731680,
+  "peak_mem_mb": 738.9,
+  "epochs": 25,
+  "wall_time_sec": 1998.93
+}

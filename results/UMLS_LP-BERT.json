@@ -1,0 +1,16 @@
+{
+  "dataset": "UMLS",
+  "model": "LP-BERT",
+  "category": "Transformer",
+  "mrr": 0.9296627640724182,
+  "hits1": 0.8786482214927673,
+  "hits3": 0.9769585132598877,
+  "hits10": 0.9953917264938354,
+  "n_eval_triples": 651,
+  "train_time_sec": 466.67,
+  "inference_time_sec": 0.09,
+  "params": 309766,
+  "peak_mem_mb": 297.0,
+  "epochs": 150,
+  "wall_time_sec": 466.78
+}

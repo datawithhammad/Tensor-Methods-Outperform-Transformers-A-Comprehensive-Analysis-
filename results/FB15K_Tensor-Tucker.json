@@ -1,0 +1,16 @@
+{
+  "dataset": "FB15K",
+  "model": "Tensor-Tucker",
+  "category": "Tensor",
+  "mrr": 0.4493950307369232,
+  "hits1": 0.33946338295936584,
+  "hits3": 0.5082374215126038,
+  "hits10": 0.651646614074707,
+  "n_eval_triples": 58999,
+  "train_time_sec": 796.83,
+  "inference_time_sec": 21.79,
+  "params": 2039000,
+  "peak_mem_mb": 985.6,
+  "epochs": 10,
+  "wall_time_sec": 818.66
+}

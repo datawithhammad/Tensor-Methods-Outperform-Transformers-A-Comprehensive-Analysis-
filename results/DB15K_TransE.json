@@ -1,0 +1,16 @@
+{
+  "dataset": "DB15K",
+  "model": "TransE",
+  "category": "Classical",
+  "mrr": 0.162873312830925,
+  "hits1": 0.0856667086482048,
+  "hits3": 0.19662021100521088,
+  "hits10": 0.31361785531044006,
+  "n_eval_triples": 8107,
+  "train_time_sec": 145.04,
+  "inference_time_sec": 3.82,
+  "params": 1018800,
+  "peak_mem_mb": 472.7,
+  "epochs": 80,
+  "wall_time_sec": 148.88
+}

@@ -1,0 +1,16 @@
+{
+  "dataset": "DB15K",
+  "model": "Tensor-Tucker",
+  "category": "Tensor",
+  "mrr": 0.3553594946861267,
+  "hits1": 0.2777846157550812,
+  "hits3": 0.3912051320075989,
+  "hits10": 0.5046256184577942,
+  "n_eval_triples": 8107,
+  "train_time_sec": 331.42,
+  "inference_time_sec": 3.29,
+  "params": 1519200,
+  "peak_mem_mb": 498.6,
+  "epochs": 15,
+  "wall_time_sec": 334.74
+}

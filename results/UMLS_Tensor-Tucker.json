@@ -1,0 +1,16 @@
+{
+  "dataset": "UMLS",
+  "model": "Tensor-Tucker",
+  "category": "Tensor",
+  "mrr": 0.9200142025947571,
+  "hits1": 0.8509984612464905,
+  "hits3": 0.9884792566299438,
+  "hits10": 0.996927797794342,
+  "n_eval_triples": 651,
+  "train_time_sec": 226.45,
+  "inference_time_sec": 0.07,
+  "params": 517800,
+  "peak_mem_mb": 301.1,
+  "epochs": 200,
+  "wall_time_sec": 226.54
+}

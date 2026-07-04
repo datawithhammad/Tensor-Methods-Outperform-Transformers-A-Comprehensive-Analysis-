@@ -1,0 +1,16 @@
+{
+  "dataset": "UMLS",
+  "model": "DistMult",
+  "category": "Classical",
+  "mrr": 0.6868478059768677,
+  "hits1": 0.5898617506027222,
+  "hits3": 0.7357910871505737,
+  "hits10": 0.8771121501922607,
+  "n_eval_triples": 651,
+  "train_time_sec": 40.89,
+  "inference_time_sec": 0.07,
+  "params": 17400,
+  "peak_mem_mb": 287.9,
+  "epochs": 300,
+  "wall_time_sec": 40.97
+}

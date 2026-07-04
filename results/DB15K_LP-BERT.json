@@ -1,0 +1,16 @@
+{
+  "dataset": "DB15K",
+  "model": "LP-BERT",
+  "category": "Transformer",
+  "mrr": 0.31065845489501953,
+  "hits1": 0.23103490471839905,
+  "hits3": 0.3427901864051819,
+  "hits10": 0.469655841588974,
+  "n_eval_triples": 8107,
+  "train_time_sec": 520.51,
+  "inference_time_sec": 3.75,
+  "params": 1619479,
+  "peak_mem_mb": 513.6,
+  "epochs": 12,
+  "wall_time_sec": 524.32
+}

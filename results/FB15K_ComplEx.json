@@ -1,0 +1,16 @@
+{
+  "dataset": "FB15K",
+  "model": "ComplEx",
+  "category": "Classical",
+  "mrr": 0.4839886724948883,
+  "hits1": 0.34979405999183655,
+  "hits3": 0.5587806701660156,
+  "hits10": 0.7401057481765747,
+  "n_eval_triples": 58999,
+  "train_time_sec": 880.81,
+  "inference_time_sec": 30.18,
+  "params": 3077200,
+  "peak_mem_mb": 1231.3,
+  "epochs": 30,
+  "wall_time_sec": 911.08
+}

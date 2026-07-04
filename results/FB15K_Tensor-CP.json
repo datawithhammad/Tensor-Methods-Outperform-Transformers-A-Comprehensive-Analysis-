@@ -1,0 +1,16 @@
+{
+  "dataset": "FB15K",
+  "model": "Tensor-CP",
+  "category": "Tensor",
+  "mrr": 0.382709801197052,
+  "hits1": 0.2892337143421173,
+  "hits3": 0.4249733090400696,
+  "hits10": 0.5564246773719788,
+  "n_eval_triples": 58999,
+  "train_time_sec": 608.65,
+  "inference_time_sec": 19.52,
+  "params": 3077200,
+  "peak_mem_mb": 943.6,
+  "epochs": 10,
+  "wall_time_sec": 628.24
+}

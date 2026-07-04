@@ -1,0 +1,16 @@
+{
+  "dataset": "DB15K",
+  "model": "DistMult",
+  "category": "Classical",
+  "mrr": 0.16961036622524261,
+  "hits1": 0.10657456517219543,
+  "hits3": 0.19230294227600098,
+  "hits10": 0.2875292897224426,
+  "n_eval_triples": 8107,
+  "train_time_sec": 130.65,
+  "inference_time_sec": 4.01,
+  "params": 1018800,
+  "peak_mem_mb": 474.2,
+  "epochs": 80,
+  "wall_time_sec": 134.69
+}

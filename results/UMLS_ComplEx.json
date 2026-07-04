@@ -1,0 +1,16 @@
+{
+  "dataset": "UMLS",
+  "model": "ComplEx",
+  "category": "Classical",
+  "mrr": 0.8892754912376404,
+  "hits1": 0.8141320943832397,
+  "hits3": 0.9562212228775024,
+  "hits10": 0.9823348522186279,
+  "n_eval_triples": 651,
+  "train_time_sec": 87.54,
+  "inference_time_sec": 0.07,
+  "params": 34800,
+  "peak_mem_mb": 309.6,
+  "epochs": 300,
+  "wall_time_sec": 87.64
+}

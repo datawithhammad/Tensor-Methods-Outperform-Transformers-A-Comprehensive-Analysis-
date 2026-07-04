@@ -1,0 +1,16 @@
+{
+  "dataset": "UMLS",
+  "model": "Tensor-CP",
+  "category": "Tensor",
+  "mrr": 0.9174680709838867,
+  "hits1": 0.8463901877403259,
+  "hits3": 0.9861751198768616,
+  "hits10": 0.9946236610412598,
+  "n_eval_triples": 651,
+  "train_time_sec": 52.7,
+  "inference_time_sec": 0.05,
+  "params": 34800,
+  "peak_mem_mb": 273.7,
+  "epochs": 200,
+  "wall_time_sec": 52.75
+}

@@ -1,0 +1,16 @@
+{
+  "dataset": "DB15K",
+  "model": "ComplEx",
+  "category": "Classical",
+  "mrr": 0.20739352703094482,
+  "hits1": 0.1447514444589615,
+  "hits3": 0.23368693888187408,
+  "hits10": 0.3242259919643402,
+  "n_eval_triples": 8107,
+  "train_time_sec": 428.87,
+  "inference_time_sec": 5.89,
+  "params": 2037600,
+  "peak_mem_mb": 504.9,
+  "epochs": 80,
+  "wall_time_sec": 434.81
+}

@@ -1,0 +1,16 @@
+{
+  "dataset": "UMLS",
+  "model": "TransE",
+  "category": "Classical",
+  "mrr": 0.602034866809845,
+  "hits1": 0.4531489908695221,
+  "hits3": 0.7173579335212708,
+  "hits10": 0.8325653076171875,
+  "n_eval_triples": 651,
+  "train_time_sec": 44.02,
+  "inference_time_sec": 0.06,
+  "params": 17400,
+  "peak_mem_mb": 281.1,
+  "epochs": 300,
+  "wall_time_sec": 44.09
+}
